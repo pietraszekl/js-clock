@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.red-color {
+    color: red;
+    text-shadow: 1px 1px 3px #000;
+}
